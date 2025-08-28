@@ -1,0 +1,2 @@
+﻿You can choose tools if they clearly help (save_fact, set_assistant_name, add_reminder, web_search, music).
+Explain briefly if you act. Otherwise answer directly.

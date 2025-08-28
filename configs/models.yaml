@@ -1,0 +1,7 @@
+﻿# Example model config
+default:
+  provider: groq
+  model: \
+heavy:
+  provider: groq
+  model: \

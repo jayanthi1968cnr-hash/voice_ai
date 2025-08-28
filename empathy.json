@@ -1,0 +1,93 @@
+{
+  "tired": [
+    "I'm sorry to hear that. I hope you can get some rest soon.",
+    "That sounds exhausting. Please take a break if you need one.",
+    "It's okay to feel that way. You've been working so hard.",
+    "I understand. I hope you can find some time to recharge.",
+    "That sounds draining. Maybe a short pause would help?",
+    "Take it easy. You've been putting in a lot of effort.",
+    "It's completely normal to feel tired. Be kind to yourself.",
+    "I'm sorry you're feeling that. Try to take a moment for yourself.",
+    "That sounds like a lot. Remember to prioritize your well-being.",
+    "I hear you. Don't push yourself too hard."
+  ],
+  "sad": [
+    "I'm sorry you're feeling that way. Is there anything I can help with?",
+    "That sounds difficult. I'm here for you if you want to talk.",
+    "I hear the sadness in your voice. I'm here to listen.",
+    "That's a tough feeling. I hope things start to look up for you.",
+    "It's okay to feel sad. Please know that I'm here to support you.",
+    "That sounds really tough. Please remember that you're not alone.",
+    "I'm sorry. I hope you can find some comfort soon.",
+    "I'm here for you, even if it's just to listen.",
+    "That sounds heartbreaking. Please take the time you need to heal.",
+    "Your feelings are valid, and I'm here to support you."
+  ],
+  "angry": [
+    "I understand. I'll try to be more helpful.",
+    "I'm sorry. I hope I haven't added to your frustration.",
+    "That sounds annoying. I'll do my best to get this right.",
+    "I hear your frustration. Let's try to solve this together.",
+    "I'm sorry for the inconvenience. What can I do to help?",
+    "I get it. That's a very frustrating situation.",
+    "I'll try to be more clear. Please let me know what's wrong.",
+    "It sounds like you're feeling pretty annoyed.",
+    "I'm sorry. I'm here to help, not to frustrate you.",
+    "That sounds really irritating. I apologize."
+  ],
+  "stressed": [
+    "That sounds like a lot to handle. Remember to take it one step at a time.",
+    "It's okay to feel overwhelmed. What's the most important thing right now?",
+    "I hear your stress. Maybe we can tackle one task at a time?",
+    "Take a deep breath. Let's break this down together.",
+    "That sounds like a lot of pressure. I can help simplify things.",
+    "I'm sorry you're feeling that way. It's okay to pause and reset.",
+    "I understand. I'm here to help lighten your load.",
+    "That sounds very stressful. What can I help you with first?",
+    "It's a lot, but we can manage it.",
+    "Don't worry, we'll get through this."
+  ],
+  "sick": [
+    "I'm sorry you're not feeling well. I hope you get better soon.",
+    "I'm sorry you're in pain. Please take it easy.",
+    "I hope you can find some relief soon.",
+    "I'm sorry to hear that. Do you need me to look something up for you?",
+    "Please take care of yourself. I wish you a speedy recovery."
+  ],
+  "happy": [
+    "That's wonderful to hear!",
+    "I'm so glad things are going well for you.",
+    "That's fantastic!",
+    "That's great news.",
+    "I'm happy for you.",
+    "What's making you so happy?",
+    "Tell me more about that!",
+    "That's a lovely thing to hear. Keep it up!",
+    "Your excitement is contagious!",
+    "That's amazing! You deserve to be happy."
+  ],
+  "questions": [
+    "I'm not sure I understand. Can you rephrase that?",
+    "Could you be more specific?",
+    "What exactly are you trying to find out?",
+    "I'm looking into that now.",
+    "Let me check on that for you.",
+    "I'm trying to find an answer for you.",
+    "One moment while I search for the information you need.",
+    "Did I answer your question correctly?",
+    "Was that the information you were looking for?",
+    "Does that make sense?"
+  ],
+  "general": [
+    "Thank you for sharing that with me.",
+    "I hear you, and I appreciate you telling me that.",
+    "It sounds like you're going through a lot. I'm here to help.",
+    "I'm sorry to hear that. Is there anything I can do?",
+    "I hear you. I'm here to listen and help as best I can.",
+    "That sounds like a lot to deal with. I'm here for you.",
+    "I'm here to support you.",
+    "Thank you for trusting me with that.",
+    "I'm here to listen.",
+    "I can only imagine how that must feel."
+  ]
+}

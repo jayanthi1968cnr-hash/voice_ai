@@ -1,0 +1,4 @@
+﻿# add/remove feeds anytime; learner will pick them up
+feeds:
+  - https://hnrss.org/frontpage
+  - https://realpython.com/atom.xml

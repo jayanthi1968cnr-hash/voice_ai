@@ -1,0 +1,26 @@
+{"ts": "2025-08-28 00:13:52", "role": "assistant", "text": "Sorry, something went wrong. I'll keep listening."}
+{"ts": "2025-08-28 00:14:08", "role": "assistant", "text": "Sorry, something went wrong. I'll keep listening."}
+{"ts": "2025-08-28 00:16:28", "role": "user", "text": "Alexa. Are you?"}
+{"ts": "2025-08-28 00:16:31", "role": "assistant", "text": "Sorry, something went wrong. I'll keep listening."}
+{"ts": "2025-08-28 00:22:23", "role": "user", "text": "Hey, I wish."}
+{"ts": "2025-08-28 00:22:23", "role": "user", "text": "Hey, I wish."}
+{"ts": "2025-08-28 00:22:26", "role": "assistant", "text": "I'm not sure what you mean by that."}
+{"ts": "2025-08-28 00:22:28", "role": "assistant", "text": "I'm not sure what you mean by that."}
+{"ts": "2025-08-28 00:22:44", "role": "user", "text": "Hello, it is."}
+{"ts": "2025-08-28 00:22:45", "role": "user", "text": "There is."}
+{"ts": "2025-08-28 00:22:47", "role": "assistant", "text": "Hello, it is 12:22 AM on Thursday, 28 August 2025."}
+{"ts": "2025-08-28 00:22:49", "role": "assistant", "text": "I'm not sure what you mean by 'There is.' Could you provide more context?"}
+{"ts": "2025-08-28 00:23:12", "role": "user", "text": "you wish?"}
+{"ts": "2025-08-28 00:23:15", "role": "assistant", "text": "I'm ready to help. What can I do for you?"}
+{"ts": "2025-08-28 00:23:27", "role": "user", "text": "Great."}
+{"ts": "2025-08-28 00:23:30", "role": "assistant", "text": "I'm glad you're happy!"}
+{"ts": "2025-08-28 00:23:44", "role": "user", "text": "What is the time right now?"}
+{"ts": "2025-08-28 00:23:44", "role": "assistant", "text": "The current time is Thursday, 28 August 2025, 12:23 AM (Asia/Kolkata)."}
+{"ts": "2025-08-28 00:24:02", "role": "user", "text": "my name."}
+{"ts": "2025-08-28 00:24:09", "role": "assistant", "text": "Assistant name updated to Irish."}
+{"ts": "2025-08-28 00:24:21", "role": "user", "text": "My name."}
+{"ts": "2025-08-28 00:24:24", "role": "assistant", "text": "Your name is Shiva."}
+{"ts": "2025-08-28 00:25:31", "role": "user", "text": "If you will be going to next step, can you please check inside my terminal what all programs I have installed because mistakenly I have installed Ubuntu in my terminal."}
+{"ts": "2025-08-28 00:25:36", "role": "assistant", "text": "You're using a voice assistant, not a terminal. I'm here to help with your queries."}
+{"ts": "2025-08-28 00:26:06", "role": "user", "text": "I mean, a total of upper moments. So, we check that we need to know what are the programs, we install and say the terminal in this file. So, give me a code to check in say terminal, what are the programs we have installed."}
+{"ts": "2025-08-28 00:26:10", "role": "assistant", "text": "You can use the command 'apt list --installed' in the terminal to check the installed programs."}
